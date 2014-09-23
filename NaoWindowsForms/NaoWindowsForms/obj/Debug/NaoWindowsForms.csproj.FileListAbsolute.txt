@@ -1,0 +1,11 @@
+c:\users\nino\documents\visual studio 2012\Projects\NaoWindowsForms\NaoWindowsForms\bin\Debug\NaoWindowsForms.exe.config
+C:\Users\nino\Documents\Visual Studio 2012\Projects\NaoWindowsForms\NaoWindowsForms\obj\Debug\NaoWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\nino\Documents\Visual Studio 2012\Projects\NaoWindowsForms\NaoWindowsForms\obj\Debug\NaoWindowsForms.Form1.resources
+C:\Users\nino\Documents\Visual Studio 2012\Projects\NaoWindowsForms\NaoWindowsForms\obj\Debug\NaoWindowsForms.Properties.Resources.resources
+C:\Users\nino\Documents\Visual Studio 2012\Projects\NaoWindowsForms\NaoWindowsForms\obj\Debug\NaoWindowsForms.csproj.GenerateResource.Cache
+C:\Users\nino\Documents\Visual Studio 2012\Projects\NaoWindowsForms\NaoWindowsForms\bin\Debug\NaoWindowsForms.exe
+C:\Users\nino\Documents\Visual Studio 2012\Projects\NaoWindowsForms\NaoWindowsForms\bin\Debug\NaoWindowsForms.pdb
+C:\Users\nino\Documents\Visual Studio 2012\Projects\NaoWindowsForms\NaoWindowsForms\bin\Debug\naoqi-dotnet4.dll
+C:\Users\nino\Documents\Visual Studio 2012\Projects\NaoWindowsForms\NaoWindowsForms\bin\Debug\naoqi-dotnet4.xml
+C:\Users\nino\Documents\Visual Studio 2012\Projects\NaoWindowsForms\NaoWindowsForms\obj\Debug\NaoWindowsForms.exe
+C:\Users\nino\Documents\Visual Studio 2012\Projects\NaoWindowsForms\NaoWindowsForms\obj\Debug\NaoWindowsForms.pdb
